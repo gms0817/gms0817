@@ -2,13 +2,23 @@
 👋 Hi, I’m Gabriel Serrano (@gms0817) !<br>
 👀 I’m currently interested in Software Engineering.<br>
 🌱 I’m currently learning Python for AI/ML and improving my Java skillset.<br>
-<img src="https://komarev.com/ghpvc/?username=gms0817&style=flat-square&color=blue" alt=""/>
+
+<a href="https://github.com/gms0817/gms0817">
+  <img src="https://komarev.com/ghpvc/?username=gms0817&style=flat-square&color=blue" alt=""/>
+</a>
 
 <h1>Social Links</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/gabrielmserrano/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.gabrielserrano.me/">
+    <img src="https://img.shields.io/static/v1?&label=&message=My Portfolio&color=red" height="30"/>
+  </a>
+  <a href="https://meritpages.com/gabrielserrano">
+    <img src="https://img.shields.io/static/v1?&label=Kean&message=Merit Page&color=blue" height="30"/>
+  </a>
+  
 </div>
 
 <h1>Languages, Frameworks, and Tools</h1>
